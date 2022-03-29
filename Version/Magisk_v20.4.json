@@ -1,0 +1,43 @@
+{
+
+  "app": {
+
+    "version": "8.0.7"
+
+    ,"versionCode": "4838"
+
+    ,"link": "https://raw.githubusercontent.com/Coconutat/MagiskBackup/main/Magiskfile/20.4/MagiskManager-v8.0.7.apk "
+
+    },
+
+  "uninstaller": {
+
+    "link": "https://raw.githubusercontent.com/Coconutat/MagiskBackup/main/Magiskfile/20.4/Magisk-uninstaller-20200323.zip"
+
+  },
+
+  "magisk": {
+
+    "version": "20.4"
+
+    ,"versionCode": "20400"
+
+    ,"link": "https://raw.githubusercontent.com/Coconutat/MagiskBackup/main/Magiskfile/20.4/Magisk-v20.4.zip"
+
+    ,"md5": "9503fc692e03d60cb8897ff2753c193f"
+
+  },
+
+  "message":{
+
+  	"Power By":"Github，Coconutat"
+
+  	,"My Github":"Coconutat"
+
+  	,"版本警告":"v20.4"
+  	
+  	，"已知特性或Bug":"华为部分机型WiFi功能损坏，如P10 EMUI5.1 Android 7。P10 EMUI 8只能兼容Magsik v20.4。"
+
+  }
+
+}
