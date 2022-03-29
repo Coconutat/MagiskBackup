@@ -1,0 +1,36 @@
+{
+
+  "app": {
+
+    "version": "23.0",
+
+    "versionCode": "23000",
+
+    "link": "https://raw.githubusercontent.com/Coconutat/MagiskBackup/main/Magiskfile/23.0/Magisk-v23.0.apk"
+
+  },
+
+  "magisk": {
+
+    "version": "23.0",
+
+    "versionCode": "23000",
+
+    "link": "https://raw.githubusercontent.com/Coconutat/MagiskBackup/main/Magiskfile/23.0/Magisk-v23.0.zip "
+
+  },
+
+  "uninstaller": {
+
+    "link": "https://raw.githubusercontent.com/Coconutat/MagiskBackup/main/Magiskfile/23.0/uninstaller.zip"
+
+  },
+
+  "message":{
+
+  	"Power By":"Github,Coconutat "
+
+  	,"My Github":"Coconutat"
+
+  	,"版本警告":"v23.0"
+  	}
