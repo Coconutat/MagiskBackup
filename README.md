@@ -1,5 +1,5 @@
 # MagiskBackup
-Only For Old Phone Needed....
+Store the old version of magisk files for older phones.
 
 ***  
-Only For Back Up!!!!!
+Only For BackUp!!!!!
